@@ -148,6 +148,6 @@ p {
 
 .wechat-info {
   width: 200px;
-  margin: 10px 650px;
+  margin: 10px auto;
   display: none;
 }
